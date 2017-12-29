@@ -8,8 +8,7 @@ You can learn more about my courses [here](http://courses.springframework.guru/c
 Two to execute the project:
 
 1) From the command prompt: 
---------------------------------------------------------------------
-java -Dspring.data.mongodb.uri=mongodb://192.168.99.100:27017/product -jar target/spring-boot-mongodb-0.0.1-SNAPSHOT.jar
+   > java -Dspring.data.mongodb.uri=mongodb://192.168.99.100:27017/product -jar target/spring-boot-mongodb-0.0.1-SNAPSHOT.jar
 
 2) From the editor i.e. either Spring STS or intellij:
   a) application.properties:
